@@ -1,4 +1,4 @@
-#usr/bin/python
+#!usr/bin/python
 ##You can change the name this file , and Start with code : python <name.py> or python whois_dominio.py
 import whois
 def scan(dominios):
