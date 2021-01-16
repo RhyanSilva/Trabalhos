@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#You can change the name this file , and Start with code : python <name.py> or python coleta.py
 from socket import *
 import socket
 import whois
